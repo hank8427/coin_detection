@@ -1,0 +1,6 @@
+input size: 224
+classes number: 2
+use pretrained: True
+epochs: 50
+batch size: 32
+learning rate: 0.00003
