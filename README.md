@@ -1,7 +1,7 @@
 # NT dollar Detection Practice
 目前可檢測新台幣的1元、5元及10元
 
-## 
+## Methods
 - [PyTorch](https://pytorch.org/)
 
 - [pycocotools](https://pypi.org/project/pycocotools/)
