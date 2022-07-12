@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMAG0124.jpg</filename>
+	<path>C:\Users\user\Desktop\coin_detection\images\IMAG0124.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50 dollar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>188</ymin>
+			<xmax>241</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>50 dollar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>480</ymin>
+			<xmax>528</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+</annotation>

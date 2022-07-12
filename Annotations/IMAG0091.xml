@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMAG0091.jpg</filename>
+	<path>C:\Users\user\Desktop\coin_detection\images\IMAG0091.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10 dollar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>299</ymin>
+			<xmax>353</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 dollar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>305</ymin>
+			<xmax>510</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>
