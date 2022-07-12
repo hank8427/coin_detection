@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset='UTF-8'>
+  <link rel="stylesheet" type="text/css" href="static/css/style.css"/>
+  <script src ="static/js/jquery.min.js"></script>
+</head>
+
+
+  <body onresize="windowResized()">
+    <h1 class="title"> Coins detection</h1>
+      <div id="container">
+	    <img id="image" src="static/images/demo_02.jpg" class="center">
+        <div id="text-container">
+	 
+	        <p id="instruction" class="green-color">
+		    <button id="uploader-btn" onClick="clickUploader()">Upload image, or drag an image there.</button>
+	    
+		    <p id="warning" class="result-color"></p>
+            <p class="result-color">
+			The result is:
+			</p>
+			<input name="imgFile" type="file" id="fileUploader" accept="image/*" onChange="handleFiles()">
+	    </div>
+		<canvas id="canvas" width="720" height="720"></canvas>
+	  </div>
+	  <script src="static/js/index.js"></script>
+  </body>  
+</html>
